@@ -18,17 +18,18 @@ Projeto utilizado nos cursos de lógica de programação da Alura.
 
 ## 🚀 Como executar o projeto
 
-1. Clone este repositório:
+1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/Ian-DevFisio/Challenge-do-Amigo-Secreto.git
    ```
 
-2. Acesse a pasta do projeto:
-   ```bash
-   cd amigo-secreto
-   ```
+2. Certifique-se de que os seguintes arquivos e pastas estão presentes no diretório raiz:
+   - **assets/** (pasta com os recursos do projeto)
+   - **index.html** (arquivo principal para acesso online)
+   - **app.js** (arquivo JavaScript com as funcionalidades)
+   - **style.css** (arquivo de estilos do projeto)
 
-3. Abra o arquivo `index.html` no seu navegador.
+3. Abra o arquivo `index.html` diretamente no seu navegador para visualizar o projeto.
 
 ## 🌐 Demonstração
 
@@ -36,4 +37,4 @@ Você pode acessar o projeto [aqui]([https://Ian-DevFisio.github.io/Challenge-do
 
 ## 👤 Autor
 
-Desenvolvido por Ian Paulino. "A parte de JavaScript foi desenvolvida por mim, enquanto o restante do código foi desenvolvido pelos programadores da Alura. Este challenge faz parte do programa One Oracle G8."
+Desenvolvido por Ian Paulino e Alura. "A parte de JavaScript foi desenvolvida por mim, enquanto o restante do código foi desenvolvido pelos programadores da Alura. Este challenge faz parte do programa One Oracle G8."
