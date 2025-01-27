@@ -33,7 +33,7 @@ Projeto utilizado nos cursos de lógica de programação da Alura.
 
 ## 🌐 Demonstração
 
-Você pode acessar o projeto [aqui]([https://Ian-DevFisio.github.io/Challenge-do-Amigo-Secreto](https://challenge-do-amigo-secreto-7weug5ijy-ians-projects-71864390.vercel.app)).
+Você pode acessar o projeto [aqui]([(https://challenge-do-amigo-secreto-7weug5ijy-ians-projects-71864390.vercel.app)).
 
 ## 👤 Autor
 
